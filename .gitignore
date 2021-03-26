@@ -6,6 +6,12 @@
 *.lo
 *.o
 *.obj
+*.sln
+obj
+bin
+*.csproj
+*.csproj.*
+
 
 # Precompiled Headers
 *.gch
